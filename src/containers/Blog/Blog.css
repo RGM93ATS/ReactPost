@@ -1,0 +1,34 @@
+.Blog {
+    width: 100%;
+    align-content: center;
+    text-align: center;
+}
+
+.Blog header {
+    width: 100%;
+    align-content: center;
+    text-align: center;
+}
+
+.Blog ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.Blog li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.Blog a {
+    text-decoration: none;
+    color: black;
+}
+
+.Blog a:hover,
+.Blog a:active,
+.Blog a.active {
+    color: rgb(55, 141, 255);
+}
